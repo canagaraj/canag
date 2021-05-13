@@ -1,0 +1,2 @@
+# canag
+MyDjangoProjects
